@@ -4,9 +4,9 @@ function randomNumGen(num) {
 
 /* Available  data types */
 
-const youAre = ['fat', 'lazy', 'stupid', 'ignorant', 'ugly'];
-const youHave = ['no friends', 'massive debt', 'no hobbies', 'no life', 'big ears', 'AIDS'];
-const youWill = ['never amount to anything', 'die a horrible death', 'lose everything', 'get impeached', 'suffer disaster'];
+const youAre = ['silly', 'lazy', 'goofy', 'ignorant', 'smelly'];
+const youHave = ['no money', 'massive debt', 'no hobbies', 'no airplanes', 'big ears', 'inconsistent morals'];
+const youWill = ['never be president', 'stub your toe', 'sit in traffic', 'get impeached', 'buy cracked eggs'];
 
 /* prints insults to console */
 
